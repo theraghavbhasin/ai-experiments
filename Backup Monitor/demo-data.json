@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "totalBackup": 8388608,
+  "remainingBackup": 0,
+  "logs": [
+    {
+      "ts": 1766015352447,
+      "totalBackup": 5452595,
+      "remainingBackup": 4299162
+    },
+    {
+      "ts": 1766101752447,
+      "totalBackup": 5452595,
+      "remainingBackup": 3355443
+    },
+    {
+      "ts": 1766274552447,
+      "totalBackup": 5452595,
+      "remainingBackup": 1992294
+    },
+    {
+      "ts": 1766360952447,
+      "totalBackup": 5452595,
+      "remainingBackup": 838861
+    },
+    {
+      "ts": 1766447352447,
+      "totalBackup": 5452595,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1771199352447,
+      "totalBackup": 5714739,
+      "remainingBackup": 367002
+    },
+    {
+      "ts": 1771285752447,
+      "totalBackup": 5714739,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1777247352447,
+      "totalBackup": 6186598,
+      "remainingBackup": 629146
+    },
+    {
+      "ts": 1777333752447,
+      "totalBackup": 6186598,
+      "remainingBackup": 125829
+    },
+    {
+      "ts": 1777420152447,
+      "totalBackup": 6186598,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1781567352447,
+      "totalBackup": 7130317,
+      "remainingBackup": 996147
+    },
+    {
+      "ts": 1781653752447,
+      "totalBackup": 7130317,
+      "remainingBackup": 419430
+    },
+    {
+      "ts": 1781740152447,
+      "totalBackup": 7130317,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1785455352447,
+      "totalBackup": 7707034,
+      "remainingBackup": 576717
+    },
+    {
+      "ts": 1785541752447,
+      "totalBackup": 7707034,
+      "remainingBackup": 104858
+    },
+    {
+      "ts": 1785628152447,
+      "totalBackup": 7707034,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1788479352447,
+      "totalBackup": 8336179,
+      "remainingBackup": 1258291
+    },
+    {
+      "ts": 1788565752447,
+      "totalBackup": 8336179,
+      "remainingBackup": 734003
+    },
+    {
+      "ts": 1788652152447,
+      "totalBackup": 8336179,
+      "remainingBackup": 157286
+    },
+    {
+      "ts": 1788738552447,
+      "totalBackup": 8336179,
+      "remainingBackup": 0
+    },
+    {
+      "ts": 1790898552447,
+      "totalBackup": 8388608,
+      "remainingBackup": 52429
+    },
+    {
+      "ts": 1790984952447,
+      "totalBackup": 8388608,
+      "remainingBackup": 0
+    }
+  ]
+}
